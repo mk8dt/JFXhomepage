@@ -36,10 +36,10 @@ public class Controller  implements Initializable{
         translateTransition.play();
 
 
-        pane1.setStyle("-fx-background-image: url(\"/sample/1.jpg\")");
-        pane2.setStyle("-fx-background-image: url(\"/sample/2.jpg\")");
-        pane3.setStyle("-fx-background-image: url(\"/sample/3.jpg\")");
-        pane4.setStyle("-fx-background-image: url(\"/sample/4.jpg\")");
+        pane1.setStyle("-fx-background-image: url(\"/sample/1.1.jpg\")");
+        pane2.setStyle("-fx-background-image: url(\"/sample/1.2.jpg\")");
+        pane3.setStyle("-fx-background-image: url(\"/sample/1.3.jpg\")");
+        pane4.setStyle("-fx-background-image: url(\"/sample/1.4.jpg\")");
 
         Animation();
 
